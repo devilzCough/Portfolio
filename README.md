@@ -5,9 +5,11 @@
 - 부스트 캠프 (네이버 커넥트 재단)
 
 ## [부스트캠프] iOS 프로젝트
-1. [이슈 트래커](https://github.com/boostcamp-2020/IssueTracker-12)
+### 1. [이슈 트래커](https://github.com/boostcamp-2020/IssueTracker-12)
 : Github에서 제공하는 Issue 관련 기능을 구현한 프로젝트
-2. [부스트포켓](https://github.com/boostcamp-2020/Project18-A-BoostPocketiOS)
+- [Wiki](https://github.com/devilzCough/Portfolio/wiki/%5B%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84%5D-%EC%9D%B4%EC%8A%88%ED%8A%B8%EB%9E%98%EC%BB%A4)
+
+### 2. [부스트포켓](https://github.com/boostcamp-2020/Project18-A-BoostPocketiOS)
 : ‘트라비포켓’의 클론코딩으로 여행 경비 관리 기능을 구현한 프로젝트
 
 ## 석사 논문
