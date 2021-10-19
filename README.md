@@ -17,16 +17,17 @@
 
 ## 석사 논문
 : 각 타이틀은 논문 링크와 연결되어 있습니다.
+: **블라인드 채용 시 옆에 있는 블라인드용 링크를 확인해주세요!**
 
-### 1. [토이 프로젝트] [유투브 하이라이트 추출](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613722&language=ko_KR)
+### 1. [토이 프로젝트] [유투브 하이라이트 추출](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613722&language=ko_KR) / [블라인드용 링크](https://drive.google.com/file/d/1WbFB8LtBctS8qd__l7HUMtbfNze8JBvv/view?usp=sharing)
 : 풀 영상에서 하이라이트 영상을 추출하는 모델을 만드는 ML 프로젝트 [자세히...](https://github.com/devilzCough/Portfolio/wiki/%5B%EC%84%9D%EC%82%AC%EB%85%BC%EB%AC%B8%5D-%EB%8F%99%EC%98%81%EC%83%81-%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EC%B6%94%EC%B6%9C-%EC%97%B0%EA%B5%AC)
 
-### 2. [졸업 논문] [딥러닝을 이용한 센서 데이터 기반의 치매 환자 이상 행동 감지 및 행동 관리 시스템](https://library.sejong.ac.kr/search/DetailView.ax?sid=&cid=1667776)
+### 2. [졸업 논문] [딥러닝을 이용한 센서 데이터 기반의 치매 환자 이상 행동 감지 및 행동 관리 시스템](https://library.sejong.ac.kr/search/DetailView.ax?sid=&cid=1667776) / [블라인드용 링크](https://drive.google.com/file/d/1NCb5eEWPsf-jaFRz3qdLgmRBcdyrKNhT/view?usp=sharing)
 : 환자들이 사용하는 센서 데이터를 이용하여 이상 행동을 감지하는 모델을 만드는 ML 프로젝트 [자세히...](https://github.com/devilzCough/Portfolio/wiki/%5B%EC%84%9D%EC%82%AC%EB%85%BC%EB%AC%B8%5D-%EC%B9%98%EB%A7%A4-%ED%99%98%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%83%81-%ED%96%89%EB%8F%99-%EA%B0%90%EC%A7%80)
 
 #### 관련 논문
-- [국내 학회] [오토인코더를 이용한 치매 환자의 이상 행동 감지](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763331)
-- [해외 학회] [Sensor-based Abnormal Behavior Detection Using Autoencoder](https://www.researchgate.net/publication/338098560_Sensor-based_Abnormal_Behavior_Detection_Using_Autoencoder)
+- [국내 학회] [오토인코더를 이용한 치매 환자의 이상 행동 감지](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763331) / [블라인드용 링크](https://drive.google.com/file/d/1e8oTth9h3qzUXIsRU6L4M_3YGhkzJwEg/view?usp=sharing)
+- [해외 학회] [Sensor-based Abnormal Behavior Detection Using Autoencoder](https://www.researchgate.net/publication/338098560_Sensor-based_Abnormal_Behavior_Detection_Using_Autoencoder) / [블라인드용 링크](https://drive.google.com/file/d/1KPtrkehXfPceIHogYbC8OZBy19jhXJnm/view?usp=sharing)
 
 <hr>
 
@@ -48,7 +49,7 @@
 
 ### 그 외
 1. [닷넷 프로그래밍] 프로젝트 관리 프로그램
-  - [프로젝트 제안서](https://drive.google.com/file/d/1eo39XURL5I4PylK6kHtG3Iu03mtvhg6Q/view)
+  - [프로젝트 제안서](https://drive.google.com/file/d/1WhH2RcY89NpyBjtAE4u32F7XQCjPvKqf/view?usp=sharing)
 2. [영상처리] 이미지에 다양한 효과 적용 기능
 3. [임베디드] 촬영한 사진을 바탕으로 노래 추천해주는 프로그램
 4. [유닉스 프로그래밍] 세마포어와 공유메모리 이용한 채팅 프로그램
